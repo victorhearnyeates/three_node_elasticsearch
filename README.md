@@ -9,4 +9,4 @@ It's fairly easy to add nodes, etc, by copying the config_node_x and simply chan
 
 Aside from that, if you want to run each node in its own terminal, simply copy each line out of `start.sh` into it's own terminal.
 
-The modules/ lib/ bin/ diredctories are all from elasticsearch and are under the Elastic licence.
+The modules, lib and bin directories are all from elasticsearch and are under the Elastic licence.
