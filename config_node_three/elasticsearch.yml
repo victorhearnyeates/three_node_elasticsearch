@@ -59,7 +59,6 @@ path.logs: logs_node_three
 http.port: 9202
 #
 # For more information, consult the network module documentation.
-reindex.remote.whitelist: 'dbase-ess.pharmpress.net:80'
 #
 # --------------------------------- Discovery ----------------------------------
 #
